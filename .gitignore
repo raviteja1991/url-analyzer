@@ -30,3 +30,7 @@ build/
 
 # Windows system files
 Thumbs.db
+
+# Frontend specific
+/frontend/node_modules/
+frontend/package-lock.json
